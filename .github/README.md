@@ -99,3 +99,8 @@ Check out the following places for more Ox-related content:
   <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" height="35">
 </a>
 
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais du code source de ce depot est disponible dans [docs/fr](docs/fr/README.md). Elle couvre la presentation, la philosophie du module core, les signatures enveloppees ERC-6492/ERC-8010, l execution groupee ERC-7821, et les types UserOperation ERC-4337.
